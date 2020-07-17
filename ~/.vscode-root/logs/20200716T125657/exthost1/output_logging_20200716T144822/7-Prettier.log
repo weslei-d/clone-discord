@@ -1,0 +1,380 @@
+["INFO" - 14:48:22] Extension Name: esbenp.prettier-vscode.
+["INFO" - 14:48:22] Extension Version: 5.1.3.
+["INFO" - 14:48:22] Enabling prettier for languages
+[
+  "css",
+  "graphql",
+  "html",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "json5",
+  "jsonc",
+  "less",
+  "markdown",
+  "mdx",
+  "mongo",
+  "postcss",
+  "scss",
+  "typescript",
+  "typescriptreact",
+  "vue",
+  "yaml"
+]
+["INFO" - 14:48:22] Enabling prettier for range supported languages
+[
+  "graphql",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "typescript",
+  "typescriptreact"
+]
+["INFO" - 14:51:47] Formatting /home/weslei/Documentos/www/rocketseat/clone-discord/src/components/ServerList/index.tsx
+["INFO" - 14:51:47] Using ignore file (if present) at /home/weslei/Documentos/www/rocketseat/clone-discord/.prettierignore
+["INFO" - 14:51:47] Using bundled version of prettier.
+["INFO" - 14:51:47] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 14:51:47] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 14:51:47] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/weslei/Documentos/www/rocketseat/clone-discord/src/components/ServerList/index.tsx",
+  "parser": "typescript"
+}
+["INFO" - 14:51:48] Formatting completed in 209.471168ms.
+["INFO" - 14:52:02] Formatting /home/weslei/Documentos/www/rocketseat/clone-discord/src/components/ServerButton/styles.ts
+["INFO" - 14:52:02] Using ignore file (if present) at /home/weslei/Documentos/www/rocketseat/clone-discord/.prettierignore
+["INFO" - 14:52:02] Using bundled version of prettier.
+["INFO" - 14:52:02] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 14:52:02] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 14:52:02] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/weslei/Documentos/www/rocketseat/clone-discord/src/components/ServerButton/styles.ts",
+  "parser": "typescript"
+}
+["INFO" - 14:52:02] Formatting completed in 80.108939ms.
+["INFO" - 15:11:17] Formatting /home/weslei/Documentos/www/rocketseat/clone-discord/src/components/ServerName/styles.ts
+["INFO" - 15:11:17] Using ignore file (if present) at /home/weslei/Documentos/www/rocketseat/clone-discord/.prettierignore
+["INFO" - 15:11:17] Using bundled version of prettier.
+["INFO" - 15:11:17] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 15:11:17] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 15:11:17] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/weslei/Documentos/www/rocketseat/clone-discord/src/components/ServerName/styles.ts",
+  "parser": "typescript"
+}
+["INFO" - 15:11:17] Formatting completed in 111.31372ms.
+["INFO" - 15:11:19] Formatting /home/weslei/Documentos/www/rocketseat/clone-discord/src/components/ServerName/styles.ts
+["INFO" - 15:11:19] Using ignore file (if present) at /home/weslei/Documentos/www/rocketseat/clone-discord/.prettierignore
+["INFO" - 15:11:19] Using bundled version of prettier.
+["INFO" - 15:11:19] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 15:11:19] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 15:11:19] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/weslei/Documentos/www/rocketseat/clone-discord/src/components/ServerName/styles.ts",
+  "parser": "typescript"
+}
+["INFO" - 15:11:19] Formatting completed in 60.246226ms.
+["INFO" - 15:11:20] Formatting /home/weslei/Documentos/www/rocketseat/clone-discord/src/components/ServerName/styles.ts
+["INFO" - 15:11:20] Using ignore file (if present) at /home/weslei/Documentos/www/rocketseat/clone-discord/.prettierignore
+["INFO" - 15:11:20] Using bundled version of prettier.
+["INFO" - 15:11:20] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 15:11:20] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 15:11:20] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/weslei/Documentos/www/rocketseat/clone-discord/src/components/ServerName/styles.ts",
+  "parser": "typescript"
+}
+["INFO" - 15:11:20] Formatting completed in 45.852739ms.
+["INFO" - 15:11:24] Formatting /home/weslei/Documentos/www/rocketseat/clone-discord/src/components/ServerName/styles.ts
+["INFO" - 15:11:24] Using ignore file (if present) at /home/weslei/Documentos/www/rocketseat/clone-discord/.prettierignore
+["INFO" - 15:11:24] Using bundled version of prettier.
+["INFO" - 15:11:24] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 15:11:24] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 15:11:24] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/weslei/Documentos/www/rocketseat/clone-discord/src/components/ServerName/styles.ts",
+  "parser": "typescript"
+}
+["INFO" - 15:11:24] Formatting completed in 37.693347ms.
+["INFO" - 15:11:27] Formatting /home/weslei/Documentos/www/rocketseat/clone-discord/src/components/ServerName/styles.ts
+["INFO" - 15:11:27] Using ignore file (if present) at /home/weslei/Documentos/www/rocketseat/clone-discord/.prettierignore
+["INFO" - 15:11:27] Using bundled version of prettier.
+["INFO" - 15:11:27] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 15:11:27] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 15:11:27] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/weslei/Documentos/www/rocketseat/clone-discord/src/components/ServerName/styles.ts",
+  "parser": "typescript"
+}
+["INFO" - 15:11:27] Formatting completed in 48.029726ms.
+["INFO" - 15:11:47] Formatting /home/weslei/Documentos/www/rocketseat/clone-discord/src/components/ServerName/styles.ts
+["INFO" - 15:11:47] Using ignore file (if present) at /home/weslei/Documentos/www/rocketseat/clone-discord/.prettierignore
+["INFO" - 15:11:47] Using bundled version of prettier.
+["INFO" - 15:11:47] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 15:11:47] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 15:11:47] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/weslei/Documentos/www/rocketseat/clone-discord/src/components/ServerName/styles.ts",
+  "parser": "typescript"
+}
+["INFO" - 15:11:47] Formatting completed in 47.242048ms.
+["INFO" - 15:11:53] Formatting /home/weslei/Documentos/www/rocketseat/clone-discord/src/components/ServerName/index.tsx
+["INFO" - 15:11:53] Using ignore file (if present) at /home/weslei/Documentos/www/rocketseat/clone-discord/.prettierignore
+["INFO" - 15:11:53] Using bundled version of prettier.
+["INFO" - 15:11:53] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 15:11:53] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 15:11:53] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/weslei/Documentos/www/rocketseat/clone-discord/src/components/ServerName/index.tsx",
+  "parser": "typescript"
+}
+["INFO" - 15:11:53] Formatting completed in 79.183932ms.
+["INFO" - 15:19:27] Enabling prettier for languages
+[
+  "css",
+  "graphql",
+  "html",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "json5",
+  "jsonc",
+  "less",
+  "markdown",
+  "mdx",
+  "mongo",
+  "postcss",
+  "scss",
+  "typescript",
+  "typescriptreact",
+  "vue",
+  "yaml"
+]
+["INFO" - 15:19:27] Enabling prettier for range supported languages
+[
+  "graphql",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "typescript",
+  "typescriptreact"
+]
+["INFO" - 15:19:27] Enabling prettier for languages
+[
+  "css",
+  "graphql",
+  "html",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "json5",
+  "jsonc",
+  "less",
+  "markdown",
+  "mdx",
+  "mongo",
+  "postcss",
+  "scss",
+  "typescript",
+  "typescriptreact",
+  "vue",
+  "yaml"
+]
+["INFO" - 15:19:27] Enabling prettier for range supported languages
+[
+  "graphql",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "typescript",
+  "typescriptreact"
+]

@@ -1,0 +1,603 @@
+[2020-07-17 12:26:51.952] [renderer1] [error] Cannot read property 'getRuleStack' of undefined: TypeError: Cannot read property 'getRuleStack' of undefined
+    at DocumentDecoration.onDidChangeTextDocument (/root/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.0/out/src/documentDecoration.js:42:26)
+    at DocumentDecorationManager.onDidChangeTextDocument (/root/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.0/out/src/documentDecorationManager.js:47:32)
+    at /root/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.0/out/src/extension.js:30:39
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at t.ExtHostDocuments.$acceptModelChanged (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:651:742)
+    at m._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:801:683)
+    at m._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:801:375)
+    at m._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:800:14)
+    at m._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:798:832)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:797:34
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at v.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:235:849)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:975:744
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at v.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:235:849)
+    at t.PersistentProtocol._receiveMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:240:276)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:237:357
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at p.acceptChunk (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:233:393)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:753
+    at Socket.t (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:241:826)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-07-17 12:28:07.012] [renderer1] [error] Illegal value for `line`: Error: Illegal value for `line`
+    at d._lineAt (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:465:884)
+    at Object.rangeOffset [as lineAt] (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:464:823)
+    at /root/.vscode/extensions/formulahendry.auto-rename-tag-0.1.4/packages/extension/dist/webpack:/src/extensionMain.ts:304:41
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at t.ExtHostDocuments.$acceptModelChanged (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:651:742)
+    at m._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:801:683)
+    at m._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:801:375)
+    at m._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:800:14)
+    at m._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:798:832)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:797:34
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at v.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:235:849)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:975:744
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at v.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:235:849)
+    at t.PersistentProtocol._receiveMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:240:276)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:237:357
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at p.acceptChunk (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:233:393)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:753
+    at Socket.t (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:241:826)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-07-17 12:38:43.284] [renderer1] [error] Cannot read property 'getRuleStack' of undefined: TypeError: Cannot read property 'getRuleStack' of undefined
+    at DocumentDecoration.tokenizeLine (/root/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.0/out/src/documentDecoration.js:227:35)
+    at DocumentDecoration.onDidChangeTextDocument (/root/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.0/out/src/documentDecoration.js:39:30)
+    at DocumentDecorationManager.onDidChangeTextDocument (/root/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.0/out/src/documentDecorationManager.js:47:32)
+    at /root/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.0/out/src/extension.js:30:39
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at t.ExtHostDocuments.$acceptModelChanged (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:651:742)
+    at m._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:801:683)
+    at m._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:801:375)
+    at m._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:800:14)
+    at m._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:798:832)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:797:34
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at v.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:235:849)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:975:744
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at v.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:235:849)
+    at t.PersistentProtocol._receiveMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:240:276)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:237:357
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at p.acceptChunk (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:233:393)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:753
+    at Socket.t (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:241:826)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-07-17 13:14:06.325] [renderer1] [error] <semantic> TypeScript Server Error (3.9.6)
+Debug Failure. Invalid cast. The supplied value [object Object] did not pass the test 'isStringLiteral'.
+Error: Debug Failure. Invalid cast. The supplied value [object Object] did not pass the test 'isStringLiteral'.
+    at Object.cast (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:1387:25)
+    at tryGetImportedPackageName (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:131135:33)
+    at Object.getCodeActions (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:131103:35)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:127392:77
+    at Object.flatMap (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:465:25)
+    at Object.getFixes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:127392:23)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:139204:35
+    at Object.flatMap (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:465:25)
+    at Proxy.getCodeFixesAtPosition (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:139202:23)
+    at Proxy.<anonymous> (/root/.vscode/extensions/jpoissonnier.vscode-styled-components-0.0.29/node_modules/typescript-template-language-service-decorator/lib/template-language-service-decorator.js:144:20)
+    at IOSession.Session.getCodeFixes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149303:64)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:148040:61)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149553:88
+    at IOSession.Session.executeWithRequestId (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149544:28)
+    at IOSession.Session.executeCommand (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149553:33)
+    at IOSession.Session.onMessage (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149577:35)
+    at Interface.<anonymous> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:150893:27)
+    at Interface.emit (events.js:203:13)
+    at Interface._onLine (readline.js:316:10)
+    at Interface._normalWrite (readline.js:461:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17): Error: <semantic> TypeScript Server Error (3.9.6)
+Debug Failure. Invalid cast. The supplied value [object Object] did not pass the test 'isStringLiteral'.
+Error: Debug Failure. Invalid cast. The supplied value [object Object] did not pass the test 'isStringLiteral'.
+    at Object.cast (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:1387:25)
+    at tryGetImportedPackageName (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:131135:33)
+    at Object.getCodeActions (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:131103:35)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:127392:77
+    at Object.flatMap (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:465:25)
+    at Object.getFixes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:127392:23)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:139204:35
+    at Object.flatMap (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:465:25)
+    at Proxy.getCodeFixesAtPosition (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:139202:23)
+    at Proxy.<anonymous> (/root/.vscode/extensions/jpoissonnier.vscode-styled-components-0.0.29/node_modules/typescript-template-language-service-decorator/lib/template-language-service-decorator.js:144:20)
+    at IOSession.Session.getCodeFixes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149303:64)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:148040:61)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149553:88
+    at IOSession.Session.executeWithRequestId (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149544:28)
+    at IOSession.Session.executeCommand (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149553:33)
+    at IOSession.Session.onMessage (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149577:35)
+    at Interface.<anonymous> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:150893:27)
+    at Interface.emit (events.js:203:13)
+    at Interface._onLine (readline.js:316:10)
+    at Interface._normalWrite (readline.js:461:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+    at Function.create (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:55161)
+    at h.dispatchResponse (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:227777)
+    at h.dispatchMessage (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:226697)
+    at /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:226173
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at l.onLengthData (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:235493)
+    at Socket.<anonymous> (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:235141)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-07-17 13:39:36.526] [renderer1] [error] Illegal value for `line`: Error: Illegal value for `line`
+    at d._lineAt (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:465:884)
+    at Object.rangeOffset [as lineAt] (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:464:823)
+    at /root/.vscode/extensions/formulahendry.auto-rename-tag-0.1.4/packages/extension/dist/webpack:/src/extensionMain.ts:304:41
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at t.ExtHostDocuments.$acceptModelChanged (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:651:742)
+    at m._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:801:683)
+    at m._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:801:375)
+    at m._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:800:14)
+    at m._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:798:832)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:797:34
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at v.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:235:849)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:975:744
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at v.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:235:849)
+    at t.PersistentProtocol._receiveMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:240:276)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:237:357
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at p.acceptChunk (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:233:393)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:753
+    at Socket.t (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:241:826)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-07-17 14:05:00.684] [renderer1] [error] Cannot read property 'getRuleStack' of undefined: TypeError: Cannot read property 'getRuleStack' of undefined
+    at DocumentDecoration.tokenizeLine (/root/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.0/out/src/documentDecoration.js:227:35)
+    at DocumentDecoration.onDidChangeTextDocument (/root/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.0/out/src/documentDecoration.js:39:30)
+    at DocumentDecorationManager.onDidChangeTextDocument (/root/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.0/out/src/documentDecorationManager.js:47:32)
+    at /root/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.0/out/src/extension.js:30:39
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at t.ExtHostDocuments.$acceptModelChanged (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:651:742)
+    at m._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:801:683)
+    at m._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:801:375)
+    at m._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:800:14)
+    at m._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:798:832)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:797:34
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at v.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:235:849)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:975:744
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at v.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:235:849)
+    at t.PersistentProtocol._receiveMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:240:276)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:237:357
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at p.acceptChunk (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:233:393)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:753
+    at Socket.t (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:241:826)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-07-17 14:09:19.826] [renderer1] [error] Illegal value for `line`: Error: Illegal value for `line`
+    at d._lineAt (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:465:884)
+    at Object.rangeOffset [as lineAt] (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:464:823)
+    at /root/.vscode/extensions/formulahendry.auto-rename-tag-0.1.4/packages/extension/dist/webpack:/src/extensionMain.ts:304:41
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at t.ExtHostDocuments.$acceptModelChanged (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:651:742)
+    at m._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:801:683)
+    at m._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:801:375)
+    at m._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:800:14)
+    at m._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:798:832)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:797:34
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at v.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:235:849)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:975:744
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at v.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:235:849)
+    at t.PersistentProtocol._receiveMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:240:276)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:237:357
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at p.acceptChunk (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:233:393)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:753
+    at Socket.t (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:241:826)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-07-17 14:28:12.378] [renderer1] [error] Cannot read property 'getRuleStack' of undefined: TypeError: Cannot read property 'getRuleStack' of undefined
+    at DocumentDecoration.tokenizeLine (/root/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.0/out/src/documentDecoration.js:227:35)
+    at DocumentDecoration.onDidChangeTextDocument (/root/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.0/out/src/documentDecoration.js:39:30)
+    at DocumentDecorationManager.onDidChangeTextDocument (/root/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.0/out/src/documentDecorationManager.js:47:32)
+    at /root/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.0/out/src/extension.js:30:39
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at t.ExtHostDocuments.$acceptModelChanged (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:651:742)
+    at m._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:801:683)
+    at m._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:801:375)
+    at m._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:800:14)
+    at m._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:798:832)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:797:34
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at v.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:235:849)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:975:744
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at v.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:235:849)
+    at t.PersistentProtocol._receiveMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:240:276)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:237:357
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at p.acceptChunk (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:233:393)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:753
+    at Socket.t (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:241:826)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-07-17 14:28:15.108] [renderer1] [error] Cannot read property 'getRuleStack' of undefined: TypeError: Cannot read property 'getRuleStack' of undefined
+    at DocumentDecoration.tokenizeLine (/root/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.0/out/src/documentDecoration.js:227:35)
+    at DocumentDecoration.onDidChangeTextDocument (/root/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.0/out/src/documentDecoration.js:39:30)
+    at DocumentDecorationManager.onDidChangeTextDocument (/root/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.0/out/src/documentDecorationManager.js:47:32)
+    at /root/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.0/out/src/extension.js:30:39
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at t.ExtHostDocuments.$acceptModelChanged (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:651:742)
+    at m._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:801:683)
+    at m._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:801:375)
+    at m._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:800:14)
+    at m._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:798:832)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:797:34
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at v.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:235:849)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:975:744
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at v.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:235:849)
+    at t.PersistentProtocol._receiveMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:240:276)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:237:357
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at p.acceptChunk (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:233:393)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:753
+    at Socket.t (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:241:826)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-07-17 14:43:40.909] [renderer1] [error] Illegal value for `line`: Error: Illegal value for `line`
+    at d._lineAt (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:465:884)
+    at Object.rangeOffset [as lineAt] (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:464:823)
+    at /root/.vscode/extensions/formulahendry.auto-rename-tag-0.1.4/packages/extension/dist/webpack:/src/extensionMain.ts:304:41
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at t.ExtHostDocuments.$acceptModelChanged (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:651:742)
+    at m._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:801:683)
+    at m._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:801:375)
+    at m._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:800:14)
+    at m._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:798:832)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:797:34
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at v.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:235:849)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:975:744
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at v.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:235:849)
+    at t.PersistentProtocol._receiveMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:240:276)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:237:357
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at p.acceptChunk (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:233:393)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:753
+    at Socket.t (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:241:826)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-07-17 14:44:42.857] [renderer1] [error] Error: [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2020-07-17 14:44:42.913] [renderer1] [error] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2020-07-17 14:58:09.371] [renderer1] [error] Illegal value for `line`: Error: Illegal value for `line`
+    at d._lineAt (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:465:884)
+    at Object.rangeOffset [as lineAt] (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:464:823)
+    at /root/.vscode/extensions/formulahendry.auto-rename-tag-0.1.4/packages/extension/dist/webpack:/src/extensionMain.ts:304:41
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at t.ExtHostDocuments.$acceptModelChanged (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:651:742)
+    at m._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:801:683)
+    at m._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:801:375)
+    at m._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:800:14)
+    at m._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:798:832)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:797:34
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at v.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:235:849)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:975:744
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at v.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:235:849)
+    at t.PersistentProtocol._receiveMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:240:276)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:237:357
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at p.acceptChunk (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:233:393)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:753
+    at Socket.t (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:241:826)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-07-17 15:17:38.640] [renderer1] [error] <semantic> TypeScript Server Error (3.9.6)
+Debug Failure. Invalid cast. The supplied value [object Object] did not pass the test 'isStringLiteral'.
+Error: Debug Failure. Invalid cast. The supplied value [object Object] did not pass the test 'isStringLiteral'.
+    at Object.cast (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:1387:25)
+    at tryGetImportedPackageName (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:131135:33)
+    at Object.getCodeActions (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:131103:35)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:127392:77
+    at Object.flatMap (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:465:25)
+    at Object.getFixes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:127392:23)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:139204:35
+    at Object.flatMap (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:465:25)
+    at Proxy.getCodeFixesAtPosition (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:139202:23)
+    at Proxy.<anonymous> (/root/.vscode/extensions/jpoissonnier.vscode-styled-components-0.0.29/node_modules/typescript-template-language-service-decorator/lib/template-language-service-decorator.js:144:20)
+    at IOSession.Session.getCodeFixes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149303:64)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:148040:61)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149553:88
+    at IOSession.Session.executeWithRequestId (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149544:28)
+    at IOSession.Session.executeCommand (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149553:33)
+    at IOSession.Session.onMessage (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149577:35)
+    at Interface.<anonymous> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:150893:27)
+    at Interface.emit (events.js:203:13)
+    at Interface._onLine (readline.js:316:10)
+    at Interface._normalWrite (readline.js:461:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17): Error: <semantic> TypeScript Server Error (3.9.6)
+Debug Failure. Invalid cast. The supplied value [object Object] did not pass the test 'isStringLiteral'.
+Error: Debug Failure. Invalid cast. The supplied value [object Object] did not pass the test 'isStringLiteral'.
+    at Object.cast (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:1387:25)
+    at tryGetImportedPackageName (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:131135:33)
+    at Object.getCodeActions (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:131103:35)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:127392:77
+    at Object.flatMap (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:465:25)
+    at Object.getFixes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:127392:23)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:139204:35
+    at Object.flatMap (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:465:25)
+    at Proxy.getCodeFixesAtPosition (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:139202:23)
+    at Proxy.<anonymous> (/root/.vscode/extensions/jpoissonnier.vscode-styled-components-0.0.29/node_modules/typescript-template-language-service-decorator/lib/template-language-service-decorator.js:144:20)
+    at IOSession.Session.getCodeFixes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149303:64)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:148040:61)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149553:88
+    at IOSession.Session.executeWithRequestId (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149544:28)
+    at IOSession.Session.executeCommand (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149553:33)
+    at IOSession.Session.onMessage (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149577:35)
+    at Interface.<anonymous> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:150893:27)
+    at Interface.emit (events.js:203:13)
+    at Interface._onLine (readline.js:316:10)
+    at Interface._normalWrite (readline.js:461:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+    at Function.create (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:55161)
+    at h.dispatchResponse (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:227777)
+    at h.dispatchMessage (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:226697)
+    at /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:226173
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at l.onLengthData (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:235493)
+    at Socket.<anonymous> (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:235141)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-07-17 15:30:35.400] [renderer1] [error] Illegal value for `line`: Error: Illegal value for `line`
+    at d._lineAt (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:465:884)
+    at Object.rangeOffset [as lineAt] (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:464:823)
+    at /root/.vscode/extensions/formulahendry.auto-rename-tag-0.1.4/packages/extension/dist/webpack:/src/extensionMain.ts:304:41
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at t.ExtHostDocuments.$acceptModelChanged (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:651:742)
+    at m._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:801:683)
+    at m._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:801:375)
+    at m._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:800:14)
+    at m._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:798:832)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:797:34
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at v.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:235:849)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:975:744
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at v.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:235:849)
+    at t.PersistentProtocol._receiveMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:240:276)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:237:357
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at p.acceptChunk (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:233:393)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:753
+    at Socket.t (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:241:826)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-07-17 15:49:40.368] [renderer1] [error] Illegal value for `line`: Error: Illegal value for `line`
+    at d._lineAt (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:465:884)
+    at Object.rangeOffset [as lineAt] (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:464:823)
+    at /root/.vscode/extensions/formulahendry.auto-rename-tag-0.1.4/packages/extension/dist/webpack:/src/extensionMain.ts:304:41
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at t.ExtHostDocuments.$acceptModelChanged (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:651:742)
+    at m._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:801:683)
+    at m._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:801:375)
+    at m._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:800:14)
+    at m._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:798:832)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:797:34
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at v.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:235:849)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:975:744
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at v.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:235:849)
+    at t.PersistentProtocol._receiveMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:240:276)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:237:357
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at p.acceptChunk (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:233:393)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:753
+    at Socket.t (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:241:826)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-07-17 15:56:19.624] [renderer1] [error] Cannot read property 'getRuleStack' of undefined: TypeError: Cannot read property 'getRuleStack' of undefined
+    at DocumentDecoration.onDidChangeTextDocument (/root/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.0/out/src/documentDecoration.js:42:26)
+    at DocumentDecorationManager.onDidChangeTextDocument (/root/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.0/out/src/documentDecorationManager.js:47:32)
+    at /root/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.0/out/src/extension.js:30:39
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at t.ExtHostDocuments.$acceptModelChanged (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:651:742)
+    at m._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:801:683)
+    at m._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:801:375)
+    at m._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:800:14)
+    at m._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:798:832)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:797:34
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at v.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:235:849)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:975:744
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at v.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:235:849)
+    at t.PersistentProtocol._receiveMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:240:276)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:237:357
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at p.acceptChunk (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:233:393)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:753
+    at Socket.t (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:241:826)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-07-17 15:56:20.904] [renderer1] [error] Cannot read property 'getRuleStack' of undefined: TypeError: Cannot read property 'getRuleStack' of undefined
+    at DocumentDecoration.onDidChangeTextDocument (/root/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.0/out/src/documentDecoration.js:42:26)
+    at DocumentDecorationManager.onDidChangeTextDocument (/root/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.0/out/src/documentDecorationManager.js:47:32)
+    at /root/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.0/out/src/extension.js:30:39
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at t.ExtHostDocuments.$acceptModelChanged (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:651:742)
+    at m._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:801:683)
+    at m._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:801:375)
+    at m._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:800:14)
+    at m._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:798:832)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:797:34
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at v.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:235:849)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:975:744
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at v.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:235:849)
+    at t.PersistentProtocol._receiveMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:240:276)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:237:357
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at p.acceptChunk (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:233:393)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:753
+    at Socket.t (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:241:826)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-07-17 15:56:21.973] [renderer1] [error] Cannot read property 'getRuleStack' of undefined: TypeError: Cannot read property 'getRuleStack' of undefined
+    at DocumentDecoration.onDidChangeTextDocument (/root/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.0/out/src/documentDecoration.js:42:26)
+    at DocumentDecorationManager.onDidChangeTextDocument (/root/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.0/out/src/documentDecorationManager.js:47:32)
+    at /root/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.0/out/src/extension.js:30:39
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at t.ExtHostDocuments.$acceptModelChanged (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:651:742)
+    at m._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:801:683)
+    at m._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:801:375)
+    at m._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:800:14)
+    at m._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:798:832)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:797:34
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at v.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:235:849)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:975:744
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at v.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:235:849)
+    at t.PersistentProtocol._receiveMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:240:276)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:237:357
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at p.acceptChunk (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:233:393)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:753
+    at Socket.t (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:241:826)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-07-17 15:56:23.924] [renderer1] [error] Cannot read property 'getRuleStack' of undefined: TypeError: Cannot read property 'getRuleStack' of undefined
+    at DocumentDecoration.onDidChangeTextDocument (/root/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.0/out/src/documentDecoration.js:42:26)
+    at DocumentDecorationManager.onDidChangeTextDocument (/root/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.0/out/src/documentDecorationManager.js:47:32)
+    at /root/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.0/out/src/extension.js:30:39
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at t.ExtHostDocuments.$acceptModelChanged (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:651:742)
+    at m._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:801:683)
+    at m._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:801:375)
+    at m._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:800:14)
+    at m._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:798:832)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:797:34
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at v.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:235:849)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:975:744
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at v.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:235:849)
+    at t.PersistentProtocol._receiveMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:240:276)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:237:357
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at p.acceptChunk (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:233:393)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:753
+    at Socket.t (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:241:826)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-07-17 16:04:50.279] [renderer1] [error] Illegal value for `line`: Error: Illegal value for `line`
+    at d._lineAt (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:465:884)
+    at Object.rangeOffset [as lineAt] (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:464:823)
+    at /root/.vscode/extensions/formulahendry.auto-rename-tag-0.1.4/packages/extension/dist/webpack:/src/extensionMain.ts:304:41
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at t.ExtHostDocuments.$acceptModelChanged (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:651:742)
+    at m._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:801:683)
+    at m._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:801:375)
+    at m._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:800:14)
+    at m._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:798:832)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:797:34
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at v.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:235:849)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:975:744
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at v.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:235:849)
+    at t.PersistentProtocol._receiveMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:240:276)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:237:357
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at p.acceptChunk (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:233:393)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:753
+    at Socket.t (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:241:826)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)

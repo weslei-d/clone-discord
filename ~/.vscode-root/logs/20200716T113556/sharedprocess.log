@@ -1,0 +1,71 @@
+[2020-07-16 11:36:02.530] [sharedprocess] [info] main {"machineId":"ef6135795ec6592dae586b54fb2db5f834dc0b9583b5e7426a5b679dc89a8492","windowId":2}
+[2020-07-16 11:36:02.572] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/weslei/Documentos/www/rocketseat/clone-discord/~/.vscode-root/User/snippets'
+[2020-07-16 11:36:10.685] [sharedprocess] [info] Installing extension: dbaeumer.vscode-eslint
+[2020-07-16 11:36:10.969] [sharedprocess] [info] Downloaded extension: dbaeumer.vscode-eslint /home/weslei/Documentos/www/rocketseat/clone-discord/~/.vscode-root/CachedExtensionVSIXs/dbaeumer.vscode-eslint-2.1.8
+[2020-07-16 11:36:11.095] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.dbaeumer.vscode-eslint-2.1.8: dbaeumer.vscode-eslint
+[2020-07-16 11:36:11.095] [sharedprocess] [info] Renamed to /root/.vscode/extensions/dbaeumer.vscode-eslint-2.1.8
+[2020-07-16 11:36:11.096] [sharedprocess] [info] Installation completed. dbaeumer.vscode-eslint
+[2020-07-16 11:36:11.143] [sharedprocess] [info] Extensions installed successfully: dbaeumer.vscode-eslint
+[2020-07-16 11:36:20.920] [sharedprocess] [info] Installing extension: tabnine.tabnine-vscode
+[2020-07-16 11:36:27.994] [sharedprocess] [info] Downloaded extension: tabnine.tabnine-vscode /home/weslei/Documentos/www/rocketseat/clone-discord/~/.vscode-root/CachedExtensionVSIXs/tabnine.tabnine-vscode-2.8.10
+[2020-07-16 11:36:29.394] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.tabnine.tabnine-vscode-2.8.10: tabnine.tabnine-vscode
+[2020-07-16 11:36:29.395] [sharedprocess] [info] Renamed to /root/.vscode/extensions/tabnine.tabnine-vscode-2.8.10
+[2020-07-16 11:36:29.395] [sharedprocess] [info] Installation completed. tabnine.tabnine-vscode
+[2020-07-16 11:36:29.843] [sharedprocess] [info] Extensions installed successfully: tabnine.tabnine-vscode
+[2020-07-16 11:36:30.672] [sharedprocess] [info] Installing extension: coenraads.bracket-pair-colorizer
+[2020-07-16 11:36:31.208] [sharedprocess] [info] Downloaded extension: coenraads.bracket-pair-colorizer /home/weslei/Documentos/www/rocketseat/clone-discord/~/.vscode-root/CachedExtensionVSIXs/coenraads.bracket-pair-colorizer-1.0.61
+[2020-07-16 11:36:31.707] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.coenraads.bracket-pair-colorizer-1.0.61: coenraads.bracket-pair-colorizer
+[2020-07-16 11:36:31.707] [sharedprocess] [info] Renamed to /root/.vscode/extensions/coenraads.bracket-pair-colorizer-1.0.61
+[2020-07-16 11:36:31.711] [sharedprocess] [info] Installation completed. coenraads.bracket-pair-colorizer
+[2020-07-16 11:36:31.768] [sharedprocess] [info] Extensions installed successfully: coenraads.bracket-pair-colorizer
+[2020-07-16 11:36:36.111] [sharedprocess] [info] Installing extension: kamikillerto.vscode-colorize
+[2020-07-16 11:36:38.265] [sharedprocess] [info] Downloaded extension: kamikillerto.vscode-colorize /home/weslei/Documentos/www/rocketseat/clone-discord/~/.vscode-root/CachedExtensionVSIXs/kamikillerto.vscode-colorize-0.8.17
+[2020-07-16 11:36:38.520] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.kamikillerto.vscode-colorize-0.8.17: kamikillerto.vscode-colorize
+[2020-07-16 11:36:38.521] [sharedprocess] [info] Renamed to /root/.vscode/extensions/kamikillerto.vscode-colorize-0.8.17
+[2020-07-16 11:36:38.521] [sharedprocess] [info] Installation completed. kamikillerto.vscode-colorize
+[2020-07-16 11:36:38.555] [sharedprocess] [info] Extensions installed successfully: kamikillerto.vscode-colorize
+[2020-07-16 11:36:42.548] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-07-16 11:36:48.196] [sharedprocess] [info] Installing extension: coenraads.bracket-pair-colorizer-2
+[2020-07-16 11:36:48.613] [sharedprocess] [info] Downloaded extension: coenraads.bracket-pair-colorizer-2 /home/weslei/Documentos/www/rocketseat/clone-discord/~/.vscode-root/CachedExtensionVSIXs/coenraads.bracket-pair-colorizer-2-0.2.0
+[2020-07-16 11:36:48.790] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.coenraads.bracket-pair-colorizer-2-0.2.0: coenraads.bracket-pair-colorizer-2
+[2020-07-16 11:36:48.790] [sharedprocess] [info] Renamed to /root/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.0
+[2020-07-16 11:36:48.791] [sharedprocess] [info] Installation completed. coenraads.bracket-pair-colorizer-2
+[2020-07-16 11:36:48.833] [sharedprocess] [info] Extensions installed successfully: coenraads.bracket-pair-colorizer-2
+[2020-07-16 11:36:50.028] [sharedprocess] [info] Uninstalling extension: coenraads.bracket-pair-colorizer
+[2020-07-16 11:36:50.107] [sharedprocess] [info] Successfully uninstalled extension: coenraads.bracket-pair-colorizer
+[2020-07-16 11:37:03.988] [sharedprocess] [info] Installing extension: pkief.material-icon-theme
+[2020-07-16 11:37:04.454] [sharedprocess] [info] Downloaded extension: pkief.material-icon-theme /home/weslei/Documentos/www/rocketseat/clone-discord/~/.vscode-root/CachedExtensionVSIXs/pkief.material-icon-theme-4.2.0
+[2020-07-16 11:37:06.635] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.pkief.material-icon-theme-4.2.0: pkief.material-icon-theme
+[2020-07-16 11:37:06.635] [sharedprocess] [info] Renamed to /root/.vscode/extensions/pkief.material-icon-theme-4.2.0
+[2020-07-16 11:37:06.636] [sharedprocess] [info] Installation completed. pkief.material-icon-theme
+[2020-07-16 11:37:06.700] [sharedprocess] [info] Extensions installed successfully: pkief.material-icon-theme
+[2020-07-16 11:37:19.896] [sharedprocess] [info] Installing extension: rocketseat.rocketseatreactjs
+[2020-07-16 11:37:20.408] [sharedprocess] [info] Downloaded extension: rocketseat.rocketseatreactjs /home/weslei/Documentos/www/rocketseat/clone-discord/~/.vscode-root/CachedExtensionVSIXs/rocketseat.rocketseatreactjs-3.0.2
+[2020-07-16 11:37:20.486] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.rocketseat.rocketseatreactjs-3.0.2: rocketseat.rocketseatreactjs
+[2020-07-16 11:37:20.486] [sharedprocess] [info] Renamed to /root/.vscode/extensions/rocketseat.rocketseatreactjs-3.0.2
+[2020-07-16 11:37:20.488] [sharedprocess] [info] Installation completed. rocketseat.rocketseatreactjs
+[2020-07-16 11:37:20.519] [sharedprocess] [info] Extensions installed successfully: rocketseat.rocketseatreactjs
+[2020-07-16 11:37:21.528] [sharedprocess] [info] Installing extension: rocketseat.rocketseatreactnative
+[2020-07-16 11:37:22.668] [sharedprocess] [info] Downloaded extension: rocketseat.rocketseatreactnative /home/weslei/Documentos/www/rocketseat/clone-discord/~/.vscode-root/CachedExtensionVSIXs/rocketseat.rocketseatreactnative-3.0.1
+[2020-07-16 11:37:22.822] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.rocketseat.rocketseatreactnative-3.0.1: rocketseat.rocketseatreactnative
+[2020-07-16 11:37:22.822] [sharedprocess] [info] Renamed to /root/.vscode/extensions/rocketseat.rocketseatreactnative-3.0.1
+[2020-07-16 11:37:22.825] [sharedprocess] [info] Installation completed. rocketseat.rocketseatreactnative
+[2020-07-16 11:37:22.842] [sharedprocess] [info] Installing extension: rocketseat.theme-omni
+[2020-07-16 11:37:22.864] [sharedprocess] [info] Extensions installed successfully: rocketseat.rocketseatreactnative
+[2020-07-16 11:37:23.163] [sharedprocess] [info] Downloaded extension: rocketseat.theme-omni /home/weslei/Documentos/www/rocketseat/clone-discord/~/.vscode-root/CachedExtensionVSIXs/rocketseat.theme-omni-1.0.8
+[2020-07-16 11:37:23.239] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.rocketseat.theme-omni-1.0.8: rocketseat.theme-omni
+[2020-07-16 11:37:23.239] [sharedprocess] [info] Renamed to /root/.vscode/extensions/rocketseat.theme-omni-1.0.8
+[2020-07-16 11:37:23.241] [sharedprocess] [info] Installation completed. rocketseat.theme-omni
+[2020-07-16 11:37:23.284] [sharedprocess] [info] Extensions installed successfully: rocketseat.theme-omni
+[2020-07-16 12:11:50.272] [sharedprocess] [info] Installing extension: jpoissonnier.vscode-styled-components
+[2020-07-16 12:11:51.233] [sharedprocess] [info] Downloaded extension: jpoissonnier.vscode-styled-components /home/weslei/Documentos/www/rocketseat/clone-discord/~/.vscode-root/CachedExtensionVSIXs/jpoissonnier.vscode-styled-components-0.0.29
+[2020-07-16 12:11:51.530] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.jpoissonnier.vscode-styled-components-0.0.29: jpoissonnier.vscode-styled-components
+[2020-07-16 12:11:51.530] [sharedprocess] [info] Renamed to /root/.vscode/extensions/jpoissonnier.vscode-styled-components-0.0.29
+[2020-07-16 12:11:51.533] [sharedprocess] [info] Installation completed. jpoissonnier.vscode-styled-components
+[2020-07-16 12:11:51.586] [sharedprocess] [info] Extensions installed successfully: jpoissonnier.vscode-styled-components
+[2020-07-16 12:16:42.884] [sharedprocess] [info] Installing extension: formulahendry.auto-rename-tag
+[2020-07-16 12:16:43.810] [sharedprocess] [info] Downloaded extension: formulahendry.auto-rename-tag /home/weslei/Documentos/www/rocketseat/clone-discord/~/.vscode-root/CachedExtensionVSIXs/formulahendry.auto-rename-tag-0.1.4
+[2020-07-16 12:16:43.963] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.formulahendry.auto-rename-tag-0.1.4: formulahendry.auto-rename-tag
+[2020-07-16 12:16:43.963] [sharedprocess] [info] Renamed to /root/.vscode/extensions/formulahendry.auto-rename-tag-0.1.4
+[2020-07-16 12:16:43.963] [sharedprocess] [info] Installation completed. formulahendry.auto-rename-tag
+[2020-07-16 12:16:43.997] [sharedprocess] [info] Extensions installed successfully: formulahendry.auto-rename-tag
