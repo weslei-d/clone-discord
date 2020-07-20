@@ -1448,7 +1448,7 @@
         }
     },
     "theme": "vs-dark",
-    "themeBackground": "#191622",
+    "themeBackground": "#1e1e1e",
     "windowsState": {
         "lastActiveWindow": {
             "folder": "file:///home/weslei/Documentos/www/rocketseat/clone-discord",

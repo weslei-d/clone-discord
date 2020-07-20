@@ -1,9 +1,0 @@
-[Info  - 13:03:38] ESLint server stopped.
-[Info  - 13:03:38] ESLint server running in node v12.8.1
-[Info  - 13:03:38] ESLint server is running.
-[Info  - 13:03:39] ESLint library loaded from: /home/weslei/Documentos/www/rocketseat/clone-discord/node_modules/eslint/lib/api.js
-[Info  - 14:01:00] Cannot read property 'indexOf' of undefined Occurred while linting /home/weslei/Documentos/www/rocketseat/clone-discord/src/App.tsx:3
-[Info  - 14:01:00] Cannot read property 'indexOf' of undefined Occurred while linting /home/weslei/Documentos/www/rocketseat/clone-discord/src/App.tsx:3
-[Info  - 14:01:11] Cannot read property 'indexOf' of undefined Occurred while linting /home/weslei/Documentos/www/rocketseat/clone-discord/src/App.tsx:3
-[Info  - 14:01:11] Cannot read property 'indexOf' of undefined Occurred while linting /home/weslei/Documentos/www/rocketseat/clone-discord/src/App.tsx:3
-[Info  - 14:17:25] ESLint server stopped.
